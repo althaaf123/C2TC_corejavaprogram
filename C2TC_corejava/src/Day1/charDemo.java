@@ -22,6 +22,8 @@ public class charDemo {
 		// ASCI code representation
 		int a = 'A';
 		System.out.println(a);
+		System.out.println(a);
+
 
      }
 
