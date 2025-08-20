@@ -1,5 +1,5 @@
 ////Program to demonstrate private data members, Constructors and getter and setter methods 
-package day4.firstpackage;
+package Day4.firstPackage;
 
 
 public class Executor {
