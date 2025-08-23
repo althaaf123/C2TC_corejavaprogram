@@ -1,5 +1,5 @@
 //Program to demonstrate String Class
-package com.tnsif.daynine;
+package Day9;
 
 public class SampleStringDemo {
 
