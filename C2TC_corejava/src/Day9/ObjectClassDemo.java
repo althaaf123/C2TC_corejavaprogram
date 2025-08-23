@@ -1,5 +1,5 @@
 //Program to Demonstrate Object class
-package com.tnsif.daynine;
+package day10;
 
 class Sample {
 
