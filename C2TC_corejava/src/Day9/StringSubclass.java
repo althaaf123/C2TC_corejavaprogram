@@ -1,7 +1,7 @@
 //to demonstrate the error
 
 //can't inherit final classes
-package day9;
+package Day9;
 
 public class StringSubClass extends String {
 
