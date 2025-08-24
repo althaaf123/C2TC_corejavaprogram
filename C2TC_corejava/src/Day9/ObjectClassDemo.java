@@ -1,5 +1,5 @@
 //Program to Demonstrate Object class
-package day10;
+package Day9;
 
 class Sample {
 
