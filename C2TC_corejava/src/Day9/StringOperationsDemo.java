@@ -1,5 +1,5 @@
 //Program to demonstrate various String class Methods
-package day9;
+package Day9;
 
 public class StringOperationsDemo {
 	public static void main(String[] args) {
