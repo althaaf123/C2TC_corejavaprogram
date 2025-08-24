@@ -1,5 +1,5 @@
 //Program to demonstrate string comparison using ==, equals() and compareTo() methods
-package com.tnsif.daynine;
+package Day9;
 
 public class StringComparision {
 
