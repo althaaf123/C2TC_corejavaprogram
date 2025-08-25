@@ -1,6 +1,6 @@
 //Define FunctionalInterface Operations
 
-package com.tnsif.daynineteen.v1;
+package day19.v1;
 
 @FunctionalInterface
 public interface Operations {
