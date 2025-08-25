@@ -1,6 +1,6 @@
 //Program to demonstrate calling functional interface using old way
 
-package com.tnsif.daynineteen.v1;
+package day19.v1;
 
 //1. Defining Implementable class
 class MyCubeImpl implements MyCube
