@@ -1,5 +1,5 @@
 //Define Functional Interface MyCube
-package com.tnsif.daynineteen.v1;
+package day19.v1;
 
 @FunctionalInterface
 public interface MyCube {
