@@ -1,5 +1,5 @@
 //Program to demonstrate concurrency
-package com.tnsif.dayfourteen.synchronization;
+package day14.synchronization;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
