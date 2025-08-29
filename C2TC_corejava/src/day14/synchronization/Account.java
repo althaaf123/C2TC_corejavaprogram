@@ -1,5 +1,5 @@
 //Program to demonstrate Thread Synchronization - Account class
-package com.tnsif.dayfourteen.synchronization;
+package day14.synchronization;
 
 public class Account implements Bank {
 	private int accNo;
