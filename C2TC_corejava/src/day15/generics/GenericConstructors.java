@@ -1,5 +1,5 @@
 //Program to demonstrate generic constructors
-package com.tnsif.dayfifteen.generics;
+package day15.generics;
 
 public class GenericConstructors {
 private double v;
