@@ -1,5 +1,5 @@
 //Program to demonstrate Unbounded wild card class
-package com.tnsif.dayfifteen.generics;
+package day15.generics;
 
 import java.util.List;
 
